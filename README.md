@@ -56,6 +56,10 @@ In this approach, instead of focusing on the prediction of the fine-tuned model,
 - Stochastic gradient descent
 - Decision tree
 
+Requirements
+------
+The Python version used for this project is Python 3.8. For dependency versions, take a look at the **`requirements.txt`** file.
+
 References
 ------
 
